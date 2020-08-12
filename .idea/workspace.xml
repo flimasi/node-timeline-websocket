@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e15157f-4bda-44e4-a801-4b1d2a3031ef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,11 +50,33 @@
       <option name="presentableId" value="Default" />
       <updated>1597171333963</updated>
       <workItem from="1597171335136" duration="9598000" />
-      <workItem from="1597186545138" duration="4741000" />
+      <workItem from="1597186545138" duration="6372000" />
     </task>
+    <task id="LOCAL-00001" summary="Add workspace.xml and gitignore">
+      <created>1597191323003</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597191323004</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add workspace.xml and gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add workspace.xml and gitignore" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="242" y="27" width="912" height="741" key="CommitChangelistDialog2" timestamp="1597191322703">
+      <screen x="41" y="27" width="1325" height="741" />
+    </state>
+    <state x="242" y="27" width="912" height="741" key="CommitChangelistDialog2/41.27.1325.741@41.27.1325.741" timestamp="1597191322703" />
+    <state x="298" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1597191325407">
+      <screen x="41" y="27" width="1325" height="741" />
+    </state>
+    <state x="298" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2/41.27.1325.741@41.27.1325.741" timestamp="1597191325407" />
   </component>
 </project>
