@@ -1,0 +1,29 @@
+{
+  "name": "timeline-websocket",
+  "version": "1.0.0",
+  "description": "Timeline Websocket",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flimasi/node-timeline-websocket.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flimasi/node-timeline-websocket/issues"
+  },
+  "homepage": "https://github.com/flimasi/node-timeline-websocket#readme",
+  "dependencies": {
+    "cassandra-driver": "^4.6.0",
+    "jquery": "^3.5.1",
+    "socket.io": "^2.3.0",
+    "websocket": "^1.0.31"
+  },
+  "optionalDependencies": {
+    "bufferutil": "^4.0.1",
+    "utf-8-validate": "^5.0.2"
+  }
+}
