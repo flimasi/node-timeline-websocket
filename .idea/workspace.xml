@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e15157f-4bda-44e4-a801-4b1d2a3031ef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/cassandra.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1597171333963</updated>
       <workItem from="1597171335136" duration="9598000" />
-      <workItem from="1597186545138" duration="4422000" />
+      <workItem from="1597186545138" duration="4741000" />
     </task>
     <servers />
   </component>
